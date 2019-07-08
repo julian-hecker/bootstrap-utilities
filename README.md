@@ -1,5 +1,5 @@
 # Bootstrap Utilities
-Standalone collection of Bootstrap's Utility Classes
+Standalone collection of Bootstrap's Utility Classes. https://github.com/twbs/bootstrap
 
 ## Getting Started
 1.  Clone the repo: git clone https://github.com/twbs/bootstrap.git
