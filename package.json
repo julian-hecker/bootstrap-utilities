@@ -1,0 +1,29 @@
+{
+  "name": "bootstrap-utilities",
+  "version": "1.0.0",
+  "description": "Standalone Bootstrap Utilities",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "autoprefixer": "^9.6.1",
+    "cssnano": "^4.1.10",
+    "del": "^5.0.0",
+    "gulp": "^4.0.2",
+    "gulp-postcss": "^8.0.0",
+    "gulp-sass": "^4.0.2",
+    "node-sass": "^4.12.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/julian-hecker/bootstrap-utilities.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/julian-hecker/bootstrap-utilities/issues"
+  },
+  "homepage": "https://github.com/julian-hecker/bootstrap-utilities#readme"
+}
