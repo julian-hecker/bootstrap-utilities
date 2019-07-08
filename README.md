@@ -5,6 +5,9 @@ Standalone collection of Bootstrap's Utility Classes
 1.  Clone the repo: git clone https://github.com/twbs/bootstrap.git
 2.  Include the scss files in your project, or link to the compiled distribution files.
 
+## What's Included
+The repository contains a compiled css file in dist, or modifiable source scss files to include in your project.
+
 ## Bug Reports and Feature Requests
 For Bootstrap bugs, and features, use the [Official Bootstrap Repo](https://github.com/twbs/bootstrap). For specific implementation bugs and feature requests, first check existing issues. If not yet covered, open a new issue.
 
