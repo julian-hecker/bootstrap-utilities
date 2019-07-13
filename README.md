@@ -1,5 +1,6 @@
 # Bootstrap Utilities
-Standalone collection of Bootstrap's Utility Classes. https://github.com/twbs/bootstrap
+Standalone collection of Bootstrap's Utility Classes. https://github.com/twbs/bootstrap.
+Does not require JavaScript, just use `bootstrap-utilities.css` or the minified version in your project.
 
 ## Getting Started
 1.  Clone the repo: git clone https://github.com/twbs/bootstrap.git
