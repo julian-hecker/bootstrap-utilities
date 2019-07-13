@@ -34,6 +34,7 @@ function scss() {
   return gulp.src(paths.scss.src)
     .pipe(gulpSass())
     .pipe(gulpPostcss( [autoprefixer( {remove: false} )] ))
+    .pipe(gulpRename("bootstrap-utilities.css"))
     .pipe(gulp.dest(paths.scss.dest))
     .pipe(gulpPostcss( [cssnano] ))
     .pipe(gulpRename("bootstrap-utilities.min.css"))
